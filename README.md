@@ -1,4 +1,3 @@
-# mobile-phone-shop
 # My First Website 
 
 Welcome to my first ever website! This project is a simple website built using HTML, CSS, JavaScript, and Bootstrap. I created this website as a learning project and used Adobe Dreamweaver as the development environment.
